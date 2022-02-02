@@ -1,0 +1,4 @@
+Package,Item,CSV
+survival,have_bio_deep,https://raw.githubusercontent.com/eddiezhang999/optn_wait/main/have_biopsy_censor_deep.csv
+survival,no_bio_deep,https://raw.githubusercontent.com/eddiezhang999/optn_wait/main/no_biopsy_censor_deep.csv
+survival,wait_deep,https://raw.githubusercontent.com/eddiezhang999/optn_wait/main/wait_censor_deep.csv
